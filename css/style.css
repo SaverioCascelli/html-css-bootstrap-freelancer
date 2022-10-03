@@ -24,3 +24,8 @@ header{
     height: 250px;
     background-color: red;
 }
+
+.sc-small-container{
+    width: 70%;
+    margin: 0 auto;
+}
