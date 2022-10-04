@@ -72,6 +72,18 @@ section .star-brown .progress-bar{
     font-weight:600;
 }
 
+.footer-top{
+    background-color: rgb(58, 84, 109);
+}
+
+.footer-bottom{
+    background-color:rgb(44, 62, 80);
+}
+
+footer{
+    color: white;
+}
+
 @media screen and (min-width: 768px) {
     .sc-txt h1{
         font-size: 60px;
