@@ -61,6 +61,17 @@ section .star-brown .progress-bar{
     color: white;
 }
 
+.sc-label .form-control{
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+
+.sc-label ::placeholder{
+    color: rgb(44, 62, 80);
+    font-weight:600;
+}
+
 @media screen and (min-width: 768px) {
     .sc-txt h1{
         font-size: 60px;
